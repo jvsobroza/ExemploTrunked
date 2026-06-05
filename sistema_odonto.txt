@@ -3,3 +3,4 @@ Sistema Odontológico
 - Módulo: Prontuário Eletrônico do Paciente
 - Módulo: Cadastro de Dentistas e ASB
 - Módulo: Controle de Estoque de Insumos
+- Módulo: Controle Financeiro

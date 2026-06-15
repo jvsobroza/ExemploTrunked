@@ -5,3 +5,4 @@ Sistema Odontológico
 - Módulo: Controle de Estoque de Insumos
 - Módulo: Controle Financeiro
 - Módulo: Controle de Vendas
+- Módulo: Controle de Funcionários
